@@ -8,6 +8,7 @@
   "vr": {
     "_comment": "settings specific to VR builds",
     "dom.webvr.enabled": true,
-    "dom.webxr.enabled": true
+    "dom.webxr.enabled": true,
+    "dom.fake-text-metrics.enabled": true
   }
 }
