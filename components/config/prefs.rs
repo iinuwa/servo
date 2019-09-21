@@ -181,6 +181,10 @@ mod gen {
                     dblclick_timeout: i64,
                     dblclick_dist: i64,
                 },
+                fake_text_metrics: {
+                    #[serde(rename = "dom.fake-text-metrics.enabled")]
+                    enabled: bool,
+                },
                 forcetouch: {
                     enabled: bool,
                 },

@@ -6,6 +6,7 @@
   "dom.customelements.enabled": true,
   "dom.document.dblclick_dist": 1,
   "dom.document.dblclick_timeout": 300,
+  "dom.fake-text-metrics.enabled": false,
   "dom.forcetouch.enabled": false,
   "dom.fullscreen.test": false,
   "dom.gamepad.enabled": false,
